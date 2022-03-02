@@ -1,6 +1,6 @@
 ## Giới thiệu
 
-** Đây là đồ án môn học IE221.L21.CNCL (Học kỳ 2 2020-2021)
+** Đây là đồ án môn học IE221.L21.CNCL (Học kỳ 2 2020-2021) **
 
 ## Danh sách thành viên
 
