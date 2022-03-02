@@ -1,6 +1,6 @@
 # :newspaper: Giới thiệu
 
-Đây là đồ án môn học IE221.L21.CNCL (Học kỳ 2 2020-2021)
+Đây là đồ án môn học **IE221.L21.CNCL** (Học kỳ 2 2020-2021)
 (Trò chơi có bao gồm âm thanh và nhạc nền)
 
 
