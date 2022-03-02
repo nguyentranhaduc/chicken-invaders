@@ -3,12 +3,16 @@
 **Đây là đồ án môn học IE221.L21.CNCL (Học kỳ 2 2020-2021).**
 (Trò chơi có bao gồm âm thanh và nhạc nền)
 
+
+
 # :memo: Danh sách thành viên
 
 | **Họ tên**  | **Mã số sinh viên** | **Vai trò** |
 |-------------|---------------------|-------------|
 | Nguyễn Trần Hà Đức  | 18520615  | nhóm trưởng  |
 | Nguyễn Hữu Nhật Tân | 18520354  | thành viên  |
+
+
 
 # :camera: Một vài hình ảnh từ trò chơi
 
