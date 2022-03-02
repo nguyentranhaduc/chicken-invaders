@@ -11,17 +11,17 @@
 
 # Một vài hình ảnh từ trò chơi
 
-**Welcome screen:**
+## Welcome screen:
 ![alt text](https://github.com/nguyentranhaduc/chicken-invaders/blob/main/Media/intro.png?raw=true)
 
-**Level 1:**
+## Level 1:
 ![alt text](https://github.com/nguyentranhaduc/chicken-invaders/blob/main/Media/intro_1.png?raw=true)
 
-**Level 2:**
+## Level 2:
 ![alt text](https://github.com/nguyentranhaduc/chicken-invaders/blob/main/Media/intro_2.png?raw=true)
 
-**Level 3:**
+## Level 3:
 ![alt text](https://github.com/nguyentranhaduc/chicken-invaders/blob/main/Media/intro_3.png?raw=true)
 
-**Level 4:**
+## Level 4:
 ![alt text](https://github.com/nguyentranhaduc/chicken-invaders/blob/main/Media/intro_4.png?raw=true)
